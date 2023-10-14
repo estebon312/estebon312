@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @estebon312
 - 👀 I’m interested in learning Python and Linux.
-- 🌱 I’m currently learning Linux on youtube (Paul Mcwhorter)on lesson 6.
+- 🌱 I’m currently learning Python through Udemy- Ardit Sulcie is the instructor.
 - 📫 How to reach me osikasteve@icloud.com
 
 <!---
